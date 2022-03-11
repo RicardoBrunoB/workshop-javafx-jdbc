@@ -5,6 +5,15 @@ Projeto criado com JavaFX e banco de dados MySQL com JDBC. Envolve uma aplicaç�
 
 ## Página Principal
 
+
 ## Vendedor
 
+
 ## Departamento
+
+
+# Tecnologias Utilizadas
+
+# Autor
+
+# Agradecimentos
