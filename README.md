@@ -29,4 +29,4 @@ O projeto foi criado com JavaFX e banco de dados MySQL com JDBC.
 Ricardo Bruno
 
 # Agradecimentos
-A Deus primeiramente e ao Nélio Alves (@acenelio) pelas orientações através da disponibilização deste projeto através da Udemy.
+A Deus primeiramente e ao Nélio Alves (@acenelio) pelas orientações através da disponibilização deste projeto na Udemy.
