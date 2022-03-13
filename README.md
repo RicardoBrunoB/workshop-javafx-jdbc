@@ -3,6 +3,7 @@
 
 # Finalidade do projeto
 Envolve uma aplicação que permite manter os cadastros de vendedor e departamento (CRUD - Create, Read, Update, Delete).
+Cada vendedor está associado a um departamento e possui dados como nome, e-mail, data de nascimento e salário. Cabe ressaltar que foi utilizado o padrão MVC para desenvolvimento. 
 
 O projeto foi criado com JavaFX e banco de dados MySQL com JDBC. 
 
